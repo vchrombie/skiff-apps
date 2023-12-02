@@ -158,5 +158,8 @@
     "web-streams-polyfill": "^3.2.1",
     "xmldom": "^0.6.0",
     "zxcvbn": "^4.4.2"
+  },
+  "resolutions": {
+    "@material-ui/core/popper.js": "@popperjs/core"
   }
 }
